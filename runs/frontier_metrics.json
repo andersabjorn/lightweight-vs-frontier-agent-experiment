@@ -1,0 +1,14 @@
+{
+  "model": "anthropic/claude-sonnet-4",
+  "model_label": "claude-sonnet-4",
+  "steps": 5,
+  "tool_calls": 5,
+  "tokens_in": 7835,
+  "tokens_out": 397,
+  "total_cost_usd": 0.02946,
+  "wall_time_sec": 24.36,
+  "completion_status": "max_steps",
+  "sources_cited": 0,
+  "fetched_urls": 0,
+  "backend": "composio"
+}

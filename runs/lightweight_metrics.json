@@ -1,0 +1,14 @@
+{
+  "model": "qwen/qwen3-30b-a3b-instruct-2507",
+  "model_label": "qwen3-30b",
+  "steps": 5,
+  "tool_calls": 9,
+  "tokens_in": 14170,
+  "tokens_out": 1588,
+  "total_cost_usd": 0.001352,
+  "wall_time_sec": 32.6,
+  "completion_status": "success",
+  "sources_cited": 5,
+  "fetched_urls": 4,
+  "backend": "composio"
+}
